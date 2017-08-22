@@ -1,4 +1,4 @@
-#Sonny {
+#Sonny, #Nathan {
 	height: 300px;
 	width: 300px;
 
@@ -18,7 +18,7 @@
 	text-align: center;
 }
 
-.SonnyTag {
+.SonnyTag, .NathanTag, .AdityaTag, .NaincyTag {
 	veritcal-align: top;
 	display: inline-block;
 	text-align: center;
